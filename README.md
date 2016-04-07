@@ -1,6 +1,8 @@
 # WHW-Car
 我的智能小车  
   
+####上个照  
+![image](https://github.com/wangwen135/WHW-Car/blob/master/image/car.jpg)
 ----
 
 做点记录，提醒自己  
